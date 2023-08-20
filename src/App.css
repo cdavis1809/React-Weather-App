@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: #6cb7b3;
+}
+li {
+  list-style: none;
+  font-weight: normal;
+  line-height: 35px;
+}
