@@ -8,6 +8,13 @@ export default function App() {
       <h2>
         <WeatherSearch />
       </h2>
+      <footer>
+        Created with open source code by{" "}
+        <a href="https://github.com/cdavis1809?tab=repositories">
+          Courtney Davis
+        </a>
+        .
+      </footer>
     </div>
   );
 }
